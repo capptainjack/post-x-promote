@@ -1,1 +1,1 @@
-# post-x-promote.
+# post-x-promote
